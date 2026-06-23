@@ -1,18 +1,168 @@
-# 💫 About Me:
-I’m focused on building intelligent systems that combine backend engineering with modern AI.<br><br>Currently learning and building in:<br>- Backend development with Python<br>- System design fundamentals<br>- Large Language Models (LLMs)<br>- Retrieval-Augmented Generation (RAG)<br>- Embeddings & vector databases<br><br>I prefer hands-on learning by building real-world applications.
+# Hi, I'm Reddy 👋
 
+Computer Science student building backend systems, AI retrieval architectures, and AI-powered applications while progressing toward GenAI Systems Engineering.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatareddykummitha13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvreddy8328@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kummithavenkatareddy&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kummithavenkatareddy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kummithavenkatareddy&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+🔗 **[Portfolio](https://my-portfolio-mu-nine-55.vercel.app/)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/venkatareddykummitha13/)** &nbsp;|&nbsp; 🐙 **[GitHub](https://github.com/Kummithavenkatareddy)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kummithavenkatareddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Current Focus
+
+* **Building:** **COGNORA** — AI Memory Platform with Retrieval-Augmented Generation (RAG)
+* **Learning:** System Design, Docker, Redis, Vector Databases, Observability & Monitoring
+* **Exploring:** Retrieval Optimization, Context Engineering, AI Memory Systems
+
+### Why GenAI Systems Engineering?
+I am currently progressing from backend development and async systems toward retrieval architectures, AI memory systems, and GenAI infrastructure.
+
+---
+
+## 🚧 Currently Building
+
+### **COGNORA** — *AI Memory Platform*
+
+**Current Development Focus:**
+* ✅ Knowledge Ingestion
+* ✅ Semantic Retrieval
+* ✅ Vector Storage
+* ✅ RAG Pipeline Design
+* ⬜ Multi-User Architecture
+* ⬜ Redis Caching
+* ⬜ Deployment & Observability
+
+---
+
+## 📈 Engineering Journey
+
+Programming Foundations  
+↓  
+Backend Development  
+↓  
+Async Systems  
+↓  
+AI Retrieval Systems  
+↓  
+GenAI Systems Engineering
+
+#### Progress Through Projects:
+* **CLI Log Processor** ➔ Parsing & Tooling Fundamentals
+* **College Canteen Management System** ➔ Databases & Backend APIs
+* **Async Data Engine** ➔ Concurrency & Async Systems
+* **VYRA** ➔ Embeddings & Retrieval Systems
+* **COGNORA** ➔ End-to-End AI Memory Architecture
+
+---
+
+## 🏆 Featured Projects
+
+### 🧠 COGNORA `🟢 Active Development`
+> **Flagship AI Memory Platform**
+>
+> An AI memory platform that ingests documents, stores semantic knowledge, and retrieves relevant context to generate grounded responses.
+>
+> * **Status:** 🟢 Active Development
+> * **Repository:** Private Repository
+> * **Key Concepts:** Semantic Retrieval, Context Assembly, Vector Storage (FAISS), RAG Workflows
+> * **Workflow:** Document Upload ➔ Chunking & Embedding ➔ Vector Storage ➔ Semantic Retrieval ➔ Context Assembly ➔ LLM Grounding (Gemini)
+
+<br/>
+
+### ⚡ Async Data Engine `✅ Completed`
+> **Concurrent API Aggregation System**
+>
+> A high-performance asynchronous engine that concurrently fetches, validates, and aggregates data from multiple external endpoints with active timeout and failure management.
+>
+> * **Status:** ✅ Completed
+> * **Key Concepts:** Concurrency, Asynchronous Programming (`asyncio`), Fault Tolerance
+> * **Repository:** [async-data-engine](https://github.com/Kummithavenkatareddy/async-data-engine)
+
+<br/>
+
+### 🤖 VYRA `✅ Completed`
+> **Personal AI Memory Assistant**
+>
+> An AI-powered assistant that captures personal notes, generates vector embeddings, performs FAISS-based semantic search, and grounds LLM responses with retrieved context.
+>
+> * **Status:** ✅ Completed
+> * **Key Concepts:** Semantic Retrieval, Vector Indexing (FAISS), Conversational Memory
+> * **Repository:** [VYRA](https://github.com/Kummithavenkatareddy/VYRA)
+
+<br/>
+
+### 📋 CLI Log Processor `✅ Completed`
+> **Plaintext Log Parser & Analytics Utility**
+>
+> A CLI-based tool designed to parse plaintext log streams and compile performance statistics categorized by severity levels.
+>
+> * **Status:** ✅ Completed
+> * **Key Concepts:** Plaintext Parsing, Tooling Fundamentals, Data Classification
+> * **Repository:** [CLI-log-processor](https://github.com/Kummithavenkatareddy/CLI-log-processor)
+
+<br/>
+
+### 🍔 College Canteen Management `✅ Completed`
+> **Relational Database Management System**
+>
+> A full-stack canteen order management system featuring student authentication, role-based access control, menu management, and real-time inventory validation.
+>
+> * **Status:** ✅ Completed
+> * **Key Concepts:** API Design, Relational DB (SQLAlchemy/MySQL), State Validation
+> * **Repository:** [collegeCanteen](https://github.com/Kummithavenkatareddy/collegeCanteen)
+
+---
+
+## 🛠️ Engineering Toolkit
+
+### **Backend**
+* Python
+* FastAPI
+* PostgreSQL
+* MySQL
+* Redis
+
+### **Frontend**
+* React
+* Next.js
+* Flutter
+* TailwindCSS
+
+### **AI & Retrieval**
+* Gemini
+* FAISS
+* Embeddings
+* RAG
+
+### **Tools**
+* Git
+* Linux
+* Docker
+* VS Code
+* Postman
+* Appwrite
+* Auth0
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,redis,docker,linux,ts,js,react,nextjs,tailwind,flutter,git,appwrite,c,java,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
+
+---
+
+## 💼 Internship Experience
+
+### Flutter Developer Intern
+*Aug 2025 – May 2026*
+
+* **Flutter Development:** Built responsive cross-platform mobile features.
+* **Auth0 Authentication:** Implemented secure user authentication workflows.
+* **Appwrite Integration:** Integrated backend database and storage services.
+* **Production Bug Fixing:** Resolved critical live app issues and UI bugs.
+* **API Integration:** Connected mobile frontend with backend REST APIs.
+* **Testing & Deployment Support:** Assisted in validating and shipping releases.
+
+---
+
+## 📊 Activity & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kummithavenkatareddy&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150" />
+</p>
