@@ -12,11 +12,6 @@ Computer Science student building backend systems, AI retrieval architectures, a
 * **Learning:** System Design, Docker, Redis, Vector Databases, Observability & Monitoring
 * **Exploring:** Retrieval Optimization, Context Engineering, AI Memory Systems
 
-### Why GenAI Systems Engineering?
-I am currently progressing from backend development and async systems toward retrieval architectures, AI memory systems, and GenAI infrastructure.
-
----
-
 ## 🚧 Currently Building
 
 ### **COGNORA** — *AI Memory Platform*
