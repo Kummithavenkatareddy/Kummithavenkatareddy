@@ -108,37 +108,34 @@ GenAI Systems Engineering
 
 ## 🛠️ Engineering Toolkit
 
-### **Backend**
+### **Backend & Core**
 * Python
 * FastAPI
-* PostgreSQL
+* SQLAlchemy
 * MySQL
-* Redis
-
-### **Frontend**
-* React
-* Next.js
-* Flutter
-* TailwindCSS
 
 ### **AI & Retrieval**
-* Gemini
 * FAISS
+* RAG Pipelines
 * Embeddings
-* RAG
+* Gemini API Integration
+* Semantic Search
+
+### **Mobile & Services**
+* Flutter
+* Dart
+* Appwrite
+* Auth0
 
 ### **Tools**
 * Git
 * Linux
-* Docker
 * VS Code
 * Postman
-* Appwrite
-* Auth0
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,redis,docker,linux,ts,js,react,nextjs,tailwind,flutter,git,appwrite,c,java,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,mysql,flutter,dart,appwrite,git,linux,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
 
 ---
 
