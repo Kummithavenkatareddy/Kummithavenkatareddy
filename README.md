@@ -142,7 +142,7 @@ GenAI Systems Engineering
 ## 💼 Internship Experience
 
 ### Flutter Developer Intern
-*Aug 2025 – May 2026*
+*Aug 2025 – present*
 
 * **Flutter Development:** Built responsive cross-platform mobile features.
 * **Auth0 Authentication:** Implemented secure user authentication workflows.
